@@ -3,9 +3,9 @@
     private static void Main(string[] args)
     {
         Console.WriteLine("Hello, World!");
-        string name = "rain";
-        int time = 77;
-        Console.WriteLine(name + " every day " + time + " puddles");
+        string name = "Андрей";
+        int age = 19;
+        Console.WriteLine(" Здравствуйте меня зовут " + name + " Мне " + age + " лет!");
         Console.ReadLine();
     }
 }
