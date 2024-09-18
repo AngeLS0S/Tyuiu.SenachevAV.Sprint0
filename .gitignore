@@ -361,3 +361,4 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Tyuiu.SenachevAV.Sprint0.Task2.V0.Test/Tyuiu.SenachevAV.Sprint0.Task2.V0.Test.csproj
