@@ -1,6 +1,6 @@
 ﻿using Tyuiu.SenachevAV.Sprint0.Task4.V0.Lib;
 namespace Tyuiu.SenachevAV.Sprint0.Task4.V0;
-
+ 
 internal class Program
 {
     private static void Main(string[] args)
