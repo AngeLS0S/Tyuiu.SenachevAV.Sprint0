@@ -5,6 +5,8 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <AssemblyName>Tyuiu.SenachevAV.Sprint0.Task4.V0</AssemblyName>
+    <RootNamespace>Tyuiu.SenachevAV.Sprint0.Task4.V0</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
